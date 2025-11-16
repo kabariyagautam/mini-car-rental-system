@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Validation\Rule;
 use Exception;
-use Illuminate\Database\QueryException;
 
 class AuthController extends Controller
 {
